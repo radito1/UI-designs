@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     margin: auto;
+    padding: 30px 20px;
     background-color: white;
     width: 600px;
     border: none;
@@ -21,11 +22,28 @@ body {
 .rating-container div {
     background-color: #5E57E6;
     color: white;
-    padding: 10px 15px;
+    padding: 15px 20px;
     border-radius: 6px;
+    font-weight: bold;
+    font-family: arial;
 }
 
 .middle-box {
     margin-right: 10px;
     margin-left: 10px;
+}
+
+.suggestions-container {
+    margin-top: 20px;
+}
+
+.suggestions-container p {
+    font-family: Arial;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.underline {
+    text-decoration: underline;
+    cursor: pointer;
 }
