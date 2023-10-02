@@ -58,16 +58,26 @@ p{
 
 .more-options-container{
     display: flex;
-
+    gap: 10px;
 }
 
 .more-help,
 .feedback {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    gap: 15px;
     border: 1px solid #848494;
     background-color: #ECECF4;
-    width: 250px;
-    height: 100px;
+    width: 200px;
+    padding: 15px;
 }
 
+.text {
+    font-weight: bold;
+}
+
+.button {
+    color: #8478FC;
+    cursor: pointer;
+}
