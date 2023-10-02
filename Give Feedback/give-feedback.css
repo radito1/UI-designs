@@ -68,6 +68,7 @@ p{
     justify-content: space-between;
     gap: 15px;
     border: 1px solid #848494;
+    border-radius: 8px;
     background-color: #ECECF4;
     width: 200px;
     padding: 15px;
