@@ -6,7 +6,33 @@ body {
 }
 
 p{
+    font-family: Arial;
     margin: 0;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100px;
+    background-color: #808494;
+
+    position: fixed;    
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.sign-up-button {
+    background-color: #F03B7A;
+    color: #FAFAFB;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 5px 30px; 
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
 }
 
 .login-container {
