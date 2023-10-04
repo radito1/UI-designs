@@ -54,4 +54,11 @@ p{
 .input-field {
     padding: 10px;
     max-width: 450px;
+    background-color: #14163E;
+    border: 1px solid #FAFAFB;
+}
+
+.inner-container {
+    display: flex;
+    justify-content: space-between;
 }
