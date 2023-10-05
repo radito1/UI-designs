@@ -41,7 +41,6 @@ p{
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    border: 1px solid red;
     width: 450px;
     height: 400px;
 }
@@ -81,10 +80,19 @@ p{
 }
 
 .input-field {
-    padding: 10px;
+    padding: 12px;
     max-width: 450px;
     background-color: #14163E;
-    border: 1px solid #FAFAFB;
+    border: 1px solid #aeb0bf17;
+    margin-top: 5px;
+}
+
+.input-field::placeholder {
+    color: #AEB0BF;
+}
+
+.input-container p {
+    color: #FAFAFB;
 }
 
 .inner-container {
