@@ -84,15 +84,22 @@ p{
     max-width: 450px;
     background-color: #14163E;
     border: 1px solid #aeb0bf17;
+    border-radius: 4px;
     margin-top: 5px;
 }
+
 
 .input-field::placeholder {
     color: #AEB0BF;
 }
 
-.input-container p {
+.input-label {
     color: #FAFAFB;
+}
+
+.forgot-password {
+    color: #F03B7A;
+    cursor: pointer;
 }
 
 .inner-container {
