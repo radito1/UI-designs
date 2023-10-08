@@ -4,6 +4,11 @@ body {
     margin-top: 100px;
 }
 
+p {
+    font-family: Arial;
+    margin: 0;
+}
+
 .background {
     background-color: #161D3F;
     border: none;
@@ -18,7 +23,6 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    gap: 10px;
     flex-direction: column;
     background-color: gray;
     border: none;
@@ -28,4 +32,11 @@ body {
     width: 220px;
     position: absolute;
     left: -35px;
+}
+
+.profile-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 35px;
+    border: 4px solid white;
 }
