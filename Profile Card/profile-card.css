@@ -43,7 +43,8 @@ p {
 .burger-menu {
     align-self: flex-end;
     padding-right: 20px;
-    padding-top: 15px;   
+    padding-top: 15px;  
+    cursor: pointer; 
 }
 
 .profile-image {
@@ -51,4 +52,21 @@ p {
     height: 80px;
     border-radius: 45px;
     border: 4px solid white;
+}
+
+.name {
+    font-weight: bold;
+    color: #161D3F;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.button {
+    background-color: #161D3F;
+    color: white;
+    margin-top: 30px;
+    border: none;
+    border-radius: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
 }
