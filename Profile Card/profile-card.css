@@ -10,4 +10,22 @@ body {
     border-radius: 6px;
     height: 300px;
     width: 150px;
+
+    position: relative;
+}
+
+.profile-card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    background-color: gray;
+    border: none;
+    border-radius: 20px;
+    margin-top: 40px;
+    height: 230px;
+    width: 220px;
+    position: absolute;
+    left: -35px;
 }
