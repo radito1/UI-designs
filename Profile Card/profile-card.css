@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.background {
+    background-color: #161D3F;
+    border: none;
+    border-radius: 6px;
+    height: 300px;
+    width: 150px;
+}
