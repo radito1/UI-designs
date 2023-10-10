@@ -35,5 +35,19 @@ p {
 }
 
 .my-parameter {
-
+    color: #0D2464;
 }
+
+.second-layer button {
+    padding: 10px 10px;
+}
+
+.edit-button,
+.delete-button {
+    background-color: white;
+    color: #0D2464;
+    border: 1px solid #C3CBE3;
+    border-radius: 4px;
+}
+
+.create-button
