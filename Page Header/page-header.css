@@ -27,3 +27,13 @@ p {
     color: #808FB0;
     cursor: pointer;
 }
+
+.second-layer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.my-parameter {
+
+}
