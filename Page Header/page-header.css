@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 800px;
+    border-radius: 15px;
+}
