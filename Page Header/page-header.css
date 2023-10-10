@@ -4,10 +4,26 @@ body {
     background-color: gray;
 }
 
+p {
+    margin: 0;
+
+}
+
 .main-container {
     display: flex;
     flex-direction: column;
     background-color: white;
     width: 800px;
     border-radius: 15px;
+    padding: 20px;
+}
+
+.first-layer {
+    display: flex;
+    gap: 10px;
+}
+
+.first-layer .button {
+    color: #808FB0;
+    cursor: pointer;
 }
