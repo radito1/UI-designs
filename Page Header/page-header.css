@@ -16,6 +16,7 @@ p {
     width: 800px;
     border-radius: 15px;
     padding: 20px;
+    gap: 20px;
 }
 
 .first-layer {
