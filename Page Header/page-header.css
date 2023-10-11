@@ -50,4 +50,10 @@ p {
     border-radius: 4px;
 }
 
-.create-button
+.create-button {
+    background-color: #0D2464;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 11px 10px;
+}
