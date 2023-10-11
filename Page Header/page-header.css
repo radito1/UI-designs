@@ -20,7 +20,7 @@ p {
 
 .first-layer {
     display: flex;
-    gap: 10px;
+    gap: 20px;
 }
 
 .first-layer .button {
