@@ -22,4 +22,19 @@ p {
     text-align: center;
 }
 
+.main-container {
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #F3F3F7;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+}
+
 
