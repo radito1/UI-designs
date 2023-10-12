@@ -4,11 +4,17 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 
 p {
     font-family: Arial;
     margin: 0;
+}
+
+.title {
+    width: 450px;
+    text-align: center;
 }
 
 
