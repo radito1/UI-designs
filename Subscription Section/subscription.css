@@ -53,6 +53,17 @@ p {
     font-size: 18px;
 }
 
+.subscription-button {
+    width: 180px;
+    align-self: center;
+    margin-top: 40px;
+    border: none;
+    border-radius: 40px;
+    padding: 20px;
+    font-size: 18px;
+    box-shadow: 10px 10px 11px -15px rgba(189,185,189,1);
+}
+
 
 
 
