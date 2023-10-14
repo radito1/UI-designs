@@ -39,11 +39,13 @@ p {
 }
 
 .subscription {
+    color: #202240;
     font-weight: bold;
     font-size: 20px;
 }
 
 .subscription-info {
+    color: #202240;
     margin-top: 20px;
     margin-bottom: 25px;
 }
