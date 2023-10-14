@@ -13,11 +13,13 @@ p {
 }
 
 .title {
+    color: #202240;
     width: 450px;
     text-align: center;
 }
 
 .main-info {
+    color: #202240;
     width: 600px;
     text-align: center;
 }
