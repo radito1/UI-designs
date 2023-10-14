@@ -54,6 +54,7 @@ p {
 }
 
 .subscription-button {
+    color: #202240;
     width: 180px;
     align-self: center;
     margin-top: 130px;
