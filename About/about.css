@@ -1,0 +1,10 @@
+body {
+    background-color: #F3FAFB;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 0;
+    font-family: Arial;
+}
