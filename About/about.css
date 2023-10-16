@@ -23,4 +23,13 @@ p {
 .members-container {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.import-button {
+    background-color: white;
+    color: #727CD5;
+    padding: 3px 10px;
+    border: 1px solid #96A0A7;
+    border-radius: 4px;
 }
