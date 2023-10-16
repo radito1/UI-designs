@@ -33,3 +33,16 @@ p {
     border: 1px solid #96A0A7;
     border-radius: 4px;
 }
+
+.search {
+    padding: 10px;
+    border: 1px solid #96A0A7;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.share-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
