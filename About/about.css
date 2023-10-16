@@ -7,6 +7,7 @@ body {
 p {
     margin: 0;
     font-family: Arial;
+    color: #262938;
 }
 
 .main-container {
@@ -45,6 +46,5 @@ p {
     flex-direction: column;
     gap: 5px;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
-
-.
