@@ -24,3 +24,10 @@ p{
     color: white;
     font-size: 12px;
 }
+
+.info-text {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    width: 350px;
+}
