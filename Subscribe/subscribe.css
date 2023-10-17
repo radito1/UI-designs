@@ -12,6 +12,7 @@ p{
 .container {
     display: flex;
     flex-direction: column;
+    gap: 10px;
     background-color: #5C649C;
     border-radius: 10px;
     padding: 30px;
@@ -19,3 +20,7 @@ p{
     height: 170px;
 }
 
+.top-text {
+    color: white;
+    font-size: 12px;
+}
