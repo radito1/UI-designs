@@ -14,10 +14,12 @@ p{
     flex-direction: column;
     gap: 10px;
     background-color: #5C649C;
-    border-radius: 10px;
     padding: 30px;
     width: 500px;
-    height: 170px;
+    height: 150px;
+    box-shadow: -4px 35px 0px -17px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    -o-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
 }
 
 .top-text {
@@ -42,7 +44,11 @@ p{
     background-color: #5C649C;
     border: 2px solid #737AA9;
     border-radius: 4px;
-    width: 220px;
+    width: 270px;
+}
+
+.input-field::placeholder {
+    color: white;
 }
 
 .sign-me-button {
@@ -52,4 +58,10 @@ p{
     border-radius: 4px;
     padding: 10px 20px;
     cursor: pointer;
+}
+
+.small-text {
+    color: white;
+    font-size: 11px;
+    width: 400px;
 }
