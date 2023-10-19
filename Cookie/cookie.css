@@ -51,9 +51,9 @@ p {
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 400px;
+    width: 350px;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 40px 10px;
     gap: 20px;
 }
@@ -70,10 +70,23 @@ p {
     width: 300px;
 }
 
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
 .accept-button,
 .decline-button {
     background-color: white;
     color: #405287;
     border: 1px solid #405287;
-    padding: 10px;
+    border-radius: 25px;
+    padding: 15px 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.underline {
+    text-decoration: underline;
+    cursor: pointer;
 }
