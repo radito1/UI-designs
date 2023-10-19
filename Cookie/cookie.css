@@ -1,10 +1,31 @@
 body {
     display: flex;
     justify-content: center;
+
     margin-top: 20px;
 }
 
 p {
     margin: 0;
     font-family: Arial;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #748CDB;
+    color: #EBEBF3;
+    width: 600px;
+    padding: 30px;
+    border-radius: 45px;
+}
+
+.x-button {
+    background-color: #405287;
+    color: #EBEBF3;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
 }
