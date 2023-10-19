@@ -58,3 +58,9 @@ p {
     height: 60px;
     border-radius: 30px;
 }
+
+.cookie-text {
+    text-align: center;
+    line-height: 25px;
+    width: 300px;
+}
