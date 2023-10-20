@@ -29,3 +29,16 @@ h1{
     margin-bottom: 20px;
 }
 
+.above-input-text{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.input {
+    padding: 10px;
+}
+
+.checkbox-container input {
+
+}
+
