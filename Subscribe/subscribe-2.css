@@ -13,6 +13,11 @@ h1{
     margin: 0;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
+
 .subscibe-container {
     background-color: white;
     color: #1F2543;
@@ -41,6 +46,7 @@ h1{
 }
 
 .checkbox-container input {
-
+    width: 20px;
+    height: 20px;
 }
 
