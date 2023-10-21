@@ -50,12 +50,20 @@ ul {
     flex-direction: column;
     gap: 2px;
     margin-top: 15px;
-    margin-bottom: 10px;
 }
 
 .checkbox-container input {
     width: 20px;
     height: 20px;
+}
+
+
+
+.download-button {
+    background-color: #C96464;
+    border: 1px solid #AE8AA1;
+    padding: 15px 100px;
+    margin-top: 20px;
 }
 
 
