@@ -45,8 +45,18 @@ ul {
     padding: 10px;
 }
 
+.checkbox-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
 .checkbox-container input {
     width: 20px;
     height: 20px;
 }
+
+
 
