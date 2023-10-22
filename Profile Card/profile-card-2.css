@@ -10,8 +10,19 @@ p{
     font-family: Arial;
 }
 
+h2 {
+    margin: 0px;
+}
+
 .profile-card-container {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3b3497;
+    gap: 20px;
+    padding: 20px 50px;
+    height: 250px;
+    border-radius: 20px;
 }
 
 .profile-image {
@@ -19,4 +30,13 @@ p{
     height: 100px;
     border-radius: 90px;
     border: 10px solid #2E2A68;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.info {
+    max-width: 450px;
 }
