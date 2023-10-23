@@ -8,10 +8,12 @@ body {
 p{
     margin: 0;
     font-family: Arial;
+    color: white;
 }
 
 h2 {
     margin: 0px;
+    color: white;
 }
 
 .profile-card-container {
@@ -26,10 +28,10 @@ h2 {
 }
 
 .profile-image {
-    width: 100px;
-    height: 100px;
-    border-radius: 90px;
-    border: 10px solid #2E2A68;
+    width: 150px;
+    height: 150px;
+    border-radius: 130px;
+    border: 15px solid #2E2A68;
 }
 
 .info-container {
@@ -37,8 +39,15 @@ h2 {
     flex-direction: column;
 }
 
+.profesion {
+    color: #D0D1DB;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
 .info {
-    max-width: 450px;
+    max-width: 400px;
 }
 
 .icon {
