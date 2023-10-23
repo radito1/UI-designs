@@ -40,3 +40,8 @@ h2 {
 .info {
     max-width: 450px;
 }
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
