@@ -63,7 +63,8 @@ h2 {
     gap: 40px;
 }
 
-.statistics p {
-    align-self: center;
-    gap: 15px;
+.count-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
